@@ -1,0 +1,11 @@
+.git
+.gitignore
+.vscode
+.idea
+*.md
+Dockerfile
+.dockerignore
+
+# Ignore sensitive cert/key files
+*.pem
+*.key
