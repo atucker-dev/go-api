@@ -32,5 +32,6 @@ go.work.sum
 *.key
 
 # Editor/IDE
- .idea/
- .vscode/
+.idea/
+.vscode/
+CLAUDE.md
